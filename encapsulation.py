@@ -22,7 +22,7 @@ print(test.get_privat())
 
 class Test():
     def public_func(self):
-        print("публичный мктод")
+        print("публичный метод")
 
     def _protected_func(self):
         print("защищенный метод")
